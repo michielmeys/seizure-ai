@@ -34,4 +34,5 @@ This project could improve by making use of more complex AI techniques that are 
 This project is inspired by the Building AI course from Introduction of AI, as well as courses from the master Biomedical Engineering from KU Leuven.
 
 [Neonatal EEG data] (https://www.nature.com/articles/sdata201939)
+
 [Seizure channel selection] (https://www.frontiersin.org/articles/10.3389/fnins.2020.00593/full)
