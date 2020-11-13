@@ -5,7 +5,7 @@ Detection of seizure activity from EEG recordings
 
 ## Summary
 
-This project will try to enable automatic annotation of electrophysiological recordings based on whether epileptic activity is present or not. The idea is to use AI methods that can make use of large sets of supervised data in order to come up with a well generalized model.
+This project works towards automatic annotation of electrophysiological recordings based on the presence of epileptic activity. The idea is to use AI methods and large sets of supervised data in order to come up with a well generalized model.
 
 ## Background
 
