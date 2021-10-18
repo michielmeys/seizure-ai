@@ -1,5 +1,5 @@
 
-# Project Title
+# Building AI
 
 Detection of seizure activity from EEG recordings
 
